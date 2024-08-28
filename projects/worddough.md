@@ -1,19 +1,22 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/worddough/worddoughlogo3.png
+title: "Word Dough"
+date: 2023
 published: true
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
+  - PHP
+  - MySQL
+  - Bootstrap 5
+  - JQuery
   - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - 
+summary: "•A remake of the famous New York Times game "Wordle.""
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/worddough/home.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
