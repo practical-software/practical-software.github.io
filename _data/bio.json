@@ -2,7 +2,7 @@
   "basics": {
     "name": "Justin Sumiye",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://raw.githubusercontent.com/Practical-Software/practical-software.github.io/main/img/JustinNoGlassesE.jpg",
     "email": "justin@practicalsoftware.com",
     "phone": "808-333-4444",
     "website": "https://practical-softare.github.io",
@@ -52,20 +52,6 @@
       "highlights": [
         "Maintain and update information on the KLFC website",
         "Create engaging and responsive webpages for prospective students."
-      ]
-    },
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
   ],
