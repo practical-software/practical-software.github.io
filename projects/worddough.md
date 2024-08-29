@@ -11,7 +11,7 @@ labels:
   - MySQL
   - Bootstrap 5
   - JQuery
-summary: "•A remake of the famous New York Times game "Wordle.""
+summary: "A remake of the famous New York Times game "Wordle."
 ---
 
 <img class="img-fluid" src="../img/worddough/Word-Dough-Home.png">
