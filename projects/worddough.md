@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/worddough/worddoughlogo3.png
 title: "Word Dough"
-date: 2023
+date: 2023-11-10
 published: true
 labels:
   - Javascript
