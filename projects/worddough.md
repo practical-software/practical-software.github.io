@@ -24,3 +24,4 @@ Sets and reads client-side cookies for proper account authorization.
 
 I have gained invaluable experience on backend programming with PHP using MySQLi and PDO along with MySQL.
 
+
