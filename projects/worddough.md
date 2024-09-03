@@ -1,17 +1,15 @@
 ---
 layout: project
 type: project
-image: img/worddough/worddoughlogo3.png
-title: "Word Dough"
-date: 2023-11-10
+image: img/micromouse/micromouse-square.jpg
+title: "Micromouse"
+date: 2015
 published: true
 labels:
-  - Javascript
-  - PHP
-  - MySQL
-  - Bootstrap 5
-  - JQuery
-summary: "A remake of the famous New York Times game "Wordle."
+  - Robotics
+  - Arduino
+  - C++
+summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
 
 <img class="img-fluid" src="../img/worddough/Word-Dough-Home.png">
