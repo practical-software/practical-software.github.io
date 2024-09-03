@@ -71,8 +71,9 @@ summary: "An AI-powered SAAS that transforms YouTube videos into customizable, h
 <br>
 <br>
 
+### **Note**: TubeReader's Landing and About page are incomplete and are currently being worked on.
 
-TubeReader is an AI tool designed to convert YouTube videos into well-structured blog articles. It offers a range of customization options to tailor the generated content to specific needs, making it ideal for developers, creators, and everyday users looking to enhance their content strategy.
+#### TubeReader is an AI tool designed to convert YouTube videos into well-structured blog articles. It offers a range of customization options to tailor the generated content to specific needs, making it ideal for developers, creators, and everyday users looking to enhance their content strategy.
 
 ## Key Features
 
@@ -96,6 +97,34 @@ TubeReader is an AI tool designed to convert YouTube videos into well-structured
   
 - **[UserCheck API](https://docs.usercheck.com/)**: Checks email addresses to identify and filter out disposable email addresses, ensuring that user registrations are valid.
 
+<br>
+<br>
+
+[Dashboard](https://www.tubereader.practicalsoftware.com/dashboard/)(Requires Login) and [Explore](https://www.tubereader.practicalsoftware.com/explore/) pages are dynamically rendered with React using Material UI, Material UI X, and SwiperJS. The React applications show an understanding of both commonly used hooks and components.
+
+<br>
+
+### **React Hook Usage:**
+
+- **`useState`**: Manages local state within functional components for various aspects such as pagination (e.g., `pageSize`, `page`), article list (`rows`), row modes (`rowModesModel`), modal visibility (`open`), deletion state (`delRow`), alert messages (`alertOpen`, `alertType`, `alertMessage`), and screen responsiveness (`isMobile`).
+
+- **`useEffect`**: 
+  - Fetches initial data (e.g., article counts, language and category lists) when the component mounts.
+  - Updates the displayed articles and pagination based on filter criteria and pagination index.
+  - Handles resizing and scroll events to adjust the component's layout and behavior.
+
+- **`useRef`**: 
+  - Manages references to DOM elements for scrolling and focusing.
+
+<br>
+
+## Live Demo:
+
+To try demo, please contact **justin@practicalsoftware.com** for a trial license key.
+
+## Public GitHub Repo (Dashboard & Explore)
+
+[TubeReader-Public](https://github.com/Practical-Software/TubeReader-Public)
 
 
 
