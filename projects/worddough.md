@@ -2,15 +2,13 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Word Dough"
+title: "WordDough"
 date: 2023
 published: true
 labels:
   - Javascript
   - PHP
   - MySQL
-  - Bootstrap 5
-  - JQuery
 summary: "A remake of the famous New York Times game "Wordle."
 ---
 
