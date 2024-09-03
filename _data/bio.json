@@ -2,10 +2,10 @@
   "basics": {
     "name": "Justin Sumiye",
     "label": "Student",
-    "picture": "https://raw.githubusercontent.com/Practical-Software/practical-software.github.io/main/img/JustinNoGlassesE.jpg",
+    "picture": "https://raw.githubusercontent.com/Practical-Software/practical-software.github.io/main/img/JustinNoGlassesESquare.jpg",
     "email": "justin@practicalsoftware.com",
     "phone": "808-333-4444",
-    "website": "https://practical-softare.github.io",
+    "website": "https://practical-software.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
@@ -18,16 +18,16 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Cybersecurity" },
-    { "name": "Backend Development" },
+    { "name": "Backend Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "JavaScript", "React", "PHP", "Python", "LAMP" ]
+      "keywords": [ "React", "PHP", "Python", "Java", "C", "LAMP" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 10/11", "Git/GitHub", "g++" ]
+      "keywords": [ "Windows 10/11", "Git/GitHub", "VSCode", "Heroku" ]
     }
   ],
   "education": [
@@ -53,7 +53,7 @@
         "Maintain and update information on the KLFC website",
         "Create engaging and responsive webpages for prospective students."
       ]
-    },
+    }
   ],
   "awards": [
     {
