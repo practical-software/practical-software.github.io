@@ -76,10 +76,12 @@ Key Features:
 
 This project demonstrates the use of React hooks, component composition, and state management, along with integration of a UI library for an enhanced user experience.
 
-## [GitHub Repo](https://github.com/Practical-Software/KLFC-Quiz)  
-  
+### [GitHub Repo](https://github.com/Practical-Software/KLFC-Quiz)  
 
-## [Live Demo](https://koreanflagship.manoa.hawaii.edu/trivia/)
+<br>
+<br>
+
+### [Live Demo](https://koreanflagship.manoa.hawaii.edu/trivia/)
 
 
 
