@@ -68,7 +68,8 @@ summary: "An AI-powered SAAS that transforms YouTube videos into customizable, h
 </div>
 </div>
 
-
+<br>
+<br>
 
 
 TubeReader is an AI tool designed to convert YouTube videos into well-structured blog articles. It offers a range of customization options to tailor the generated content to specific needs, making it ideal for developers, creators, and everyday users looking to enhance their content strategy.
