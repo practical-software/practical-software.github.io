@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/tubereader/tubereader.png
-title: "Word Dough"
-date: 2023
+image: img/tubereader/logo0.png
+title: "TubeReader (WIP)"
+date: 2024
 published: true
 labels:
   - React
@@ -14,16 +14,65 @@ labels:
   - OpenAI
   - Bootstrap 5
   - JQuery
-summary: "A remake of the famous New York Times game Wordle."
+summary: "An AI-powered SAAS that transforms YouTube videos into customizable, high-quality blog articles with various content options and visibility settings."
 ---
 
-# TubeReader (WIP)
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://kit.fontawesome.com/5d0479de92.js" crossorigin="anonymous"></script>
 
-TubeReader is a sophisticated tool designed to convert YouTube videos into well-structured blog articles. It offers a range of customization options to tailor the generated content to specific needs, making it ideal for developers, creators, and everyday users looking to enhance their content strategy.
+
+<script>
+    .carousel-inner {
+        overflow: hidden;
+    }
+
+    .carousel-inner .carousel-item {
+        transition: transform 0.6s ease-in-out;
+    }
+</script>
+
+<div id="projects-worddough" class="container tab-pane active">
+<br>
+
+<!-- <h5 class="work-title"><strong></strong></h5> -->
+<div id="tubereader" class="carousel slide" data-bs-ride="carousel">
+
+<!-- Indicators/dots -->
+<div class="carousel-indicators">
+<button type="button" data-bs-target="#tubereader" data-bs-slide-to="0" class="active"></button>
+<button type="button" data-bs-target="#tubereader" data-bs-slide-to="1"></button>
+<button type="button" data-bs-target="#tubereader" data-bs-slide-to="2"></button>
+</div>
+
+<!-- The slideshow/carousel -->
+<div class="carousel-inner rounded-3">
+<div class="carousel-item active">
+    <img src="/img/tubereader/TubeReader-Explore.png" alt="TubeReader Explore Page" class="d-block" style="width:100%">
+</div>
+<div class="carousel-item">
+    <img src="/img/tubereader/TubeReader-Dashboard.png" alt="TubeReader Dashboard" class="d-block" style="width:100%">
+</div>
+<div class="carousel-item">
+    <img src="/img/tubereader/TubeReader-Generate.png" alt="TubeReader Generate Article" class="d-block" style="width:100%;">
+</div>
+</div>
+
+<!-- Left and right controls/icons -->
+<button class="carousel-control-prev" type="button" data-bs-target="#tubereader" data-bs-slide="prev">
+<span class="carousel-control-prev-icon"></span>
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#tubereader" data-bs-slide="next">
+<span class="carousel-control-next-icon"></span>
+</button>
+</div>
+</div>
+
+TubeReader is an AI tool designed to convert YouTube videos into well-structured blog articles. It offers a range of customization options to tailor the generated content to specific needs, making it ideal for developers, creators, and everyday users looking to enhance their content strategy.
 
 ## Key Features
 
-- **Customizable Article Generation**: Choose from multiple options for title, font, theme, length, and language.
+- **Customizable Article Generation**: Choose from multiple options for title, font, tone, theme, length, and language.
 
 - **Article Tone Adjustment**: Select the tone of the generated articles to match your brand or audience.
 

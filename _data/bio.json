@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/practical-software" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/jsumiye" },
+      { "network": "github", "username": "Practical-Software", "url": "http://github.com/practical-software" },
+      { "network": "linkedin", "username": "jsumiye", "url": "http://linkedin.com/in/jsumiye" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
@@ -38,6 +38,15 @@
       "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
+        {
+          "name": "ICS212: Program Structure"
+        },
+        {
+          "name": "ICS314: Software Engineering"
+        },
+        {
+          "name": "ICS311: Algorithms"
+        }
       ]
     }
   ],
@@ -50,8 +59,10 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Maintain and update information on the KLFC website",
-        "Create engaging and responsive webpages for prospective students."
+        "Implemented updates and additions to the center's website using Divi, and React, ensuring seamless user experiences and keeping the online presence current and dynamic.",
+        "Developed a PHP web application that automates the creation of decision letters for student applicants using the FPDF library. This user-friendly tool generates official decision letters with branded letterhead in PDF format, facilitating a swift and professional communication process with applicants.",
+        "Successfully rebuilt the organization's application form through integration with a third-party software, streamlining the submission process for applicants. This enhancement contributed to increased efficiency and a more user-friendly application experience.",
+        "Developed a simple trivia quiz for the Korean Culture Day event using React and Material UI"
       ]
     }
   ],
