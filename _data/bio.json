@@ -11,8 +11,7 @@
     "profiles": [
       { "network": "github", "username": "Practical-Software", "url": "http://github.com/practical-software" },
       { "network": "linkedin", "username": "jsumiye", "url": "http://linkedin.com/in/jsumiye" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+    
     ]
   },
   "interests": [
