@@ -22,7 +22,7 @@ summary: "An AI-powered SAAS that transforms YouTube videos into customizable, h
 <script src="https://kit.fontawesome.com/5d0479de92.js" crossorigin="anonymous"></script>
 
 
-<script>
+<style>
     .carousel-inner {
         overflow: hidden;
     }
@@ -30,7 +30,7 @@ summary: "An AI-powered SAAS that transforms YouTube videos into customizable, h
     .carousel-inner .carousel-item {
         transition: transform 0.6s ease-in-out;
     }
-</script>
+</style>
 
 <div id="projects-worddough" class="container tab-pane active">
 <br>
@@ -60,13 +60,16 @@ summary: "An AI-powered SAAS that transforms YouTube videos into customizable, h
 
 <!-- Left and right controls/icons -->
 <button class="carousel-control-prev" type="button" data-bs-target="#tubereader" data-bs-slide="prev">
-<span class="carousel-control-prev-icon"></span>
+    <span class="carousel-control-prev-icon" style="filter: invert(100%);"></span>
 </button>
 <button class="carousel-control-next" type="button" data-bs-target="#tubereader" data-bs-slide="next">
-<span class="carousel-control-next-icon"></span>
+    <span class="carousel-control-next-icon" style="filter: invert(100%);"></span>
 </button>
 </div>
 </div>
+
+
+
 
 TubeReader is an AI tool designed to convert YouTube videos into well-structured blog articles. It offers a range of customization options to tailor the generated content to specific needs, making it ideal for developers, creators, and everyday users looking to enhance their content strategy.
 
