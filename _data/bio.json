@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://raw.githubusercontent.com/Practical-Software/practical-software.github.io/main/img/JustinNoGlassesESquare.jpg",
     "email": "justin@practicalsoftware.com",
-    "phone": "808-333-4444",
     "website": "https://practical-software.github.io",
     "summary": "I am a sophomore studying Computer Science (Security Science) in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -15,9 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
+    { "name": "Full-Stack Development" },
     { "name": "Cybersecurity" },
-    { "name": "Backend Development" }
+    { "name": "Artificial Intelligence" }
   ],
   "skills": [
     {

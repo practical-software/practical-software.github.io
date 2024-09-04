@@ -104,7 +104,12 @@ summary: "An AI-powered SAAS that transforms YouTube videos into customizable, h
 <br>
 <br>
 
-[Dashboard](https://www.tubereader.practicalsoftware.com/dashboard/) (Requires Login) and [Explore](https://www.tubereader.practicalsoftware.com/explore/) pages are dynamically rendered with React using Material UI, Material UI X, and SwiperJS. The React applications show an understanding of both commonly used hooks and components.
+[Dashboard](https://www.tubereader.practicalsoftware.com/dashboard/) (Requires Login) and [Explore](https://www.tubereader.practicalsoftware.com/explore/) pages are dynamically rendered with React using Material UI, Material UI X, and SwiperJS. 
+
+The React applications show an understanding of commonly used React hooks, component composition, and state management. 
+
+Additionally shows knowledge of functional programming in JavaScript.
+
 
 <br>
 
@@ -120,6 +125,27 @@ summary: "An AI-powered SAAS that transforms YouTube videos into customizable, h
 - **`useRef`**: 
   - Manages references to DOM elements for scrolling and focusing.
 
+#### React Hook Usage Example:
+```JSX
+const targetRef = [useRef(null), useRef(null)];
+
+useEffect(() => {
+    // Iterate through each reference in targetRef
+    targetRef.forEach((ref, index) => {
+        if (ref.current) {
+            // Scroll the referenced element into view smoothly
+            ref.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            // Adjust the scroll position slightly after scrolling into view
+            const scrollOffset = index === 0 ? -5 : -8;
+            window.scrollBy({ top: scrollOffset, behavior: 'smooth' });
+        }
+    });
+// eslint-disable-next-line react-hooks/exhaustive-deps
+}, [index]);
+
+
+```
+
 <br>
 
 ## Live Demo:
@@ -128,7 +154,7 @@ To try demo, please contact **justin@practicalsoftware.com** for a trial license
 
 ## Public GitHub Repo (Dashboard & Explore)
 
-[TubeReader-Public](https://github.com/Practical-Software/TubeReader-Public)
+[TubeReader Public Repo](https://github.com/Practical-Software/TubeReader-Public)
 
 
 
