@@ -33,6 +33,10 @@ Although it may feel tedious at first, I am confident that certain aspects of de
 
 #### Example ES6 from my [TubeReader Project](https://www.tubereader.practicalsoftware.com/explore):
 ```JSX
+    const handleLanguageChange = (event) => {
+        setLanguage(event.target.value);
+    };
+    
     const selectLanguageOptions = [
         ...languageList.map(option => (
             <MenuItem key={option} value={option}>
@@ -40,6 +44,8 @@ Although it may feel tedious at first, I am confident that certain aspects of de
             </MenuItem>
         ))
     ];
+
+
 ```
 
 ### TypeScript VS Other Object Oriented Languages
