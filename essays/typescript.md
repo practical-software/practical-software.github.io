@@ -16,7 +16,7 @@ As someone with a background in web development, learning Typescript felt quite 
 
 
 #### For example... 
-```typescript
+```JSX
 //TS static typing:
 function HelloWorld(): JSX.Element {
     return <h1>Hello, World!</h1>;
@@ -36,7 +36,7 @@ Although it may feel tedious at first, I am confident that certain aspects of de
     const handleLanguageChange = (event) => {
         setLanguage(event.target.value);
     };
-    
+
     const selectLanguageOptions = [
         ...languageList.map(option => (
             <MenuItem key={option} value={option}>
