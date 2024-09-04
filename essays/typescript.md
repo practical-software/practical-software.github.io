@@ -16,7 +16,7 @@ As someone with a background in web development, learning Typescript felt quite 
 
 
 #### For example... 
-```JSX
+```tsx
 //TS static typing:
 function HelloWorld(): JSX.Element {
     return <h1>Hello, World!</h1>;
@@ -31,8 +31,8 @@ function HelloWorld() {
 
 Although it may feel tedious at first, I am confident that certain aspects of debugging will hopefully become a bit quicker. While learning TypeScript, I was able to brush up on some ES6 concepts, which is always beneficial since I use a lot of arrow functions and spread operators when using React.
 
-#### Example ES6 from my [TubeReader Project](https://www.tubereader.practicalsoftware.com/explore):
-```JSX
+#### Example ES6 from my [TubeReader Project](https://practical-software.github.io/projects/tubereader.html):
+```tsx
     const handleLanguageChange = (event) => {
         setLanguage(event.target.value);
     };
