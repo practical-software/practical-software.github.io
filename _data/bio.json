@@ -20,14 +20,23 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "React", "PHP", "Python", "Flask", "Java", "C" ]
+        "name": "Languages and Frameworks",
+        "keywords": [ "React", "PHP", "Python", "Flask", "Java", "C" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows 10/11", "MySQL", "Apache", "Git/GitHub", "VSCode", "Heroku" ]
+        "name": "Toolsets/OS",
+        "keywords": [ "Windows 10/11", "Git/GitHub", "VSCode" ]
+    },
+    {
+        "name": "Databases and Servers",
+        "keywords": [ "MySQL", "Apache" ]
+    },
+    {
+        "name": "Deployment Platforms",
+        "keywords": [ "Heroku", "Railway" ]
     }
   ],
+
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -65,7 +74,12 @@
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.6."
     },
-    
+    {
+        "title": "AP Scholar with Honor",
+        "date": "2023",
+        "awarder": "College Board",
+        "summary": "Granted to students who receive an average score of at least 3.25 on all AP Exams taken, and scores of 3 or higher on four or more of these exams."
+    }
     {
       "title": "Outstanding Student in AP Computer Science A",
       "date": "2022",
