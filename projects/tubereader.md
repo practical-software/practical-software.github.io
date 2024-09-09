@@ -127,7 +127,7 @@ Additionally shows knowledge of functional programming in JavaScript.
 
 #### React Hook Usage Example:
 
-```JSX
+```js
 const targetRef = [useRef(null), useRef(null)];
 
 useEffect(() => {
