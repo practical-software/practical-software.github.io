@@ -126,7 +126,7 @@ Additionally shows knowledge of functional programming in JavaScript.
   - Manages references to DOM elements for scrolling and focusing.
 
 #### React Hook Usage Example:
-```JSX
+```JS
 const targetRef = [useRef(null), useRef(null)];
 
 useEffect(() => {
