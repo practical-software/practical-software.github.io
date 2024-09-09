@@ -93,7 +93,7 @@ summary: "An AI-powered SAAS that transforms YouTube videos into customizable, h
 
 ## APIs Used
 
-- **YouTube Transcript API (Self-Hosted)**: Provides the text transcripts of YouTube videos, which are essential for converting spoken content into written articles. By hosting it ourselves, we ensure better control and integration within our platform.
+- **YouTube Transcript API (Self-Hosted with Heroku & Flask)**: Provides the text transcripts of YouTube videos, which are essential for converting spoken content into written articles. 
   
 - **[OpenAI Completions API](https://platform.openai.com/docs/overview)**: Powers the content generation and enhancement of articles using OpenAI's flagship GPT-4o model. It also aids in evaluating the appropriateness of custom article titles to ensure they are suitable for most ages.
 
