@@ -55,7 +55,10 @@
         "startDate": "2019-08-01",
         "endDate": "2024-05-30",
         "courses": [
-            "AP Computer Science A"
+            "AP Computer Science A",
+            "AP Calculus AB",
+            "AP Physics 1",
+            "AP Japanese"
         ]
       }
   ],
