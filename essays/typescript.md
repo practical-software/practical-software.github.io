@@ -21,7 +21,6 @@ labels:
         display: block;
         margin: 0 auto;
         border-radius: 8px;
-        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
     }
 </style>
 <img class="img" src="../img/typescript/js-ts.png">
