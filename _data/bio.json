@@ -55,7 +55,7 @@
         "startDate": "2019-08-01",
         "endDate": "2024-05-30",
         "courses": [
-            "AP Computer Science A",
+            "AP Computer Science A"
         ]
       }
   ],
@@ -74,11 +74,6 @@
         "Developed a simple trivia quiz for the Korean Culture Day event using React and Material UI"
       ]
     }
-  ],
-  "projects": [
-    
-        "Listed on \"Projects\" page: https://practical-software.github.io/#projects"
-    
   ],
   "awards": [
     {
