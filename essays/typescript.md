@@ -12,6 +12,22 @@ labels:
 
 ## My Experience with Typescript
 
+<br>
+
+<style>
+    .img {
+        max-width: 66%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        border-radius: 8px;
+        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    }
+</style>
+<img class="img" src="../img/typescript/js-ts.png">
+
+<br>
+
 As someone with a background in web development, learning Typescript felt quite natural. To put it into words, TypeScript feels like a structured and disciplined twist on JavaScript, primarily because of its static typing and compile-time checking. 
 
 

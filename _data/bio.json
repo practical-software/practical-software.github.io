@@ -21,7 +21,7 @@
   "skills": [
     {
         "name": "Languages and Frameworks",
-        "keywords": [ "React", "PHP", "Python", "Flask", "Java", "C" ]
+        "keywords": [ "React", "PHP", "Python", "Java", "C" ]
     },
     {
         "name": "Toolsets/OS",
@@ -39,7 +39,7 @@
 
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii, Honolulu, HI (cumalative GPA: 4.0)",
       "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
       "startDate": "2023-09-01",
@@ -49,7 +49,15 @@
         "ICS311: Algorithms",
         "ICS314: Software Engineering"
       ]
-    }
+    },
+    {
+        "institution": "Hawaii Baptist Academy (cumalative GPA: 4.0)",
+        "startDate": "2019-08-01",
+        "endDate": "2024-05-30",
+        "courses": [
+            "AP Computer Science A",
+        ]
+      }
   ],
   "work": [
     {
@@ -67,7 +75,18 @@
       ]
     }
   ],
+  "projects": [
+    
+        "Listed on \"Projects\" page: https://practical-software.github.io/#projects"
+    
+  ],
   "awards": [
+    {
+        "title": "Student of the Year Nominee",
+        "date": "2024",
+        "awarder": "University of Hawaii at Manoa Career Center",
+        "summary": "Nominated out of hundreds of student employees for outstanding performance and dedication. Recognized for \"navigating website management tools to update content and implement user-friendly features\" and \"enhancing website accessibility for students and faculty.\""
+    },
     {
       "title": "Manoa Academic Merit Scholarship",
       "date": "2023 - Present",
@@ -84,7 +103,6 @@
       "title": "Outstanding Student in AP Computer Science A",
       "date": "2022",
       "awarder": "Hawaii Baptist Academy",
-      "summary": ""
     }
   ],
   "references": [

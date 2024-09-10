@@ -20,6 +20,10 @@ summary: "A remake of the famous New York Times game Wordle."
 
 Word Dough is a revamp of the popular New York Times game "Wordle," designed to elevate the competitive experience with additional features. This custom version incorporates a login and registration system, allowing players to track their progress and compete against each other through a dynamic leaderboard.
 
+Throughout the development of Word Dough, I worked independently, which required me to build my problem-solving and project management skills.
+
+Since this was my first full-stack application, I was able to learn the intricacies of PHP, MySQL, and MySQLi. I also learned the importance of API integrations and a secure user authentication system.
+
 
 ## Key Features:
 
@@ -36,6 +40,48 @@ Word Dough is a revamp of the popular New York Times game "Wordle," designed to 
 
 - [OpenAI Moderation API](https://platform.openai.com/docs/guides/moderation): Monitors and filters usernames to ensure a respectful and appropriate gaming environment.
 
+### Example MySQL Query from [Leaderboard Page](https://www.practicalsoftware.com/worddough/leaderboard.html):
+
+```php
+$leaderboardSQL = "
+    SELECT JSON_OBJECT(
+        'display_name', `displayname`,
+        'avg_guesses', ROUND(AVG(`num_guesses`), 2),
+        'win_percentage', ROUND(AVG(is_win) * 100, 2)
+    ) AS json_data
+    FROM game_reports
+    GROUP BY `displayname`
+    ORDER BY ROUND(AVG(`num_guesses`), 2) ASC
+    LIMIT 15;
+";
+
+// Execute the query and check if it was successful
+$query = mysqli_query($conn, $sqlString);
+
+if ($query) {
+    $jsonArray = array(); // Array to hold JSON objects from each row
+
+    // Fetch results as associative array and check for errors
+    while ($row = mysqli_fetch_assoc($query)) {
+        if ($row && isset($row['json_data'])) {
+            $jsonArray[] = $row['json_data']; // Add each JSON object to the array
+        } else {
+            // Error handling for missing 'json_data' key
+            error_log("Missing 'json_data' in query result row"); // Log the error
+            echo "Error: Unexpected data format."; // Generic message for users
+            exit;
+        }
+    }
+
+    // Output the array as a JSON string
+    echo json_encode($jsonArray);
+} else {
+    // Log and output the SQL error if the query fails
+    error_log("Query error: " . mysqli_error($conn)); // Log the error
+    echo "Error executing query."; // Generic message for users
+}
+
+```
 
 
-### [Play Now!](https://practicalsoftware.com/worddough/index.html)
+## [Play Now!](https://practicalsoftware.com/worddough/index.html)

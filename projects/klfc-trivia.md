@@ -67,14 +67,16 @@ summary: "A simple trivia quiz for the Korean Language Flagship Center's Korean 
 <br>
 
 
-This project is a React-based quiz application that tests users' knowledge of Korean culture. The quiz features multiple questions with options, tracking the user's score and displaying a personalized message based on their performance. The application utilizes Material-UI components for a modern and responsive UI design. 
+I programmed a React-based quiz application that tests users' knowledge of Korean culture for the Korean Language Flagship Center's Korean Culture Day. The quiz features multiple questions with multi-choice answers, tracking the user's score and displaying a personalized message based on their performance. The application utilizes Material-UI components for a modern and responsive UI design. 
+
+This project strengthened my understanding of React hooks, state management, and component composition. I was also able to learn Material UI, my first experience with a React UI library, which is essential for creating user-friendly and visually appealing applications.
+
 
 Key Features:
 - **Dynamic Quiz Flow**: The quiz dynamically updates questions and tracks progress through React state management.
 - **Immediate Feedback**: Users receive immediate feedback on their answers, enhancing learning and engagement.
 - **Custom Animations**: Includes animations for transitions between questions and feedback messages using `Fade` and `Grow` components from Material-UI.
 
-This project demonstrates the use of React hooks, component composition, and state management, along with integration of a UI library for an enhanced user experience.
 
 ### [GitHub Repo](https://github.com/Practical-Software/KLFC-Quiz)  
 

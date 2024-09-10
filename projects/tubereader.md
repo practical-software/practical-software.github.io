@@ -75,7 +75,10 @@ summary: "An AI-powered SAAS that transforms YouTube videos into customizable, h
 
 <br>
 
-###### TubeReader is an AI tool designed to convert YouTube videos into well-structured blog articles. It offers a range of customization options to tailor the generated content to specific needs, making it ideal for developers, creators, and everyday users looking to enhance their content strategy.
+TubeReader is a full-stack web application I developed that transforms YouTube videos into fully formatted blog articles, catering to creators, developers, and everyday users. This project allows users to input YouTube URLs and generate articles with customizable features, including public, unlisted, and private options, as well as article tone adjustments. TubeReader provides a user-friendly experience, with an easy-to-use interface. 
+
+*I plan to release TubeReader as a SAAS in the near future.*
+
 
 <br>
 
@@ -104,11 +107,11 @@ summary: "An AI-powered SAAS that transforms YouTube videos into customizable, h
 <br>
 <br>
 
+Throughout development, I learned what it means to create a fully-functional SAAS web application from the ground up, having to consider client's potential needs and beneficial features that add to the functionality of the application. Additionally, I was able to deepen my understanding of functional programming concepts (JavaScript), React, PHP, and managing complex API integrations. 
+
+
+##### Note:
 [Dashboard](https://www.tubereader.practicalsoftware.com/dashboard/) (Requires Login) and [Explore](https://www.tubereader.practicalsoftware.com/explore/) pages are dynamically rendered with React using Material UI, Material UI X, and SwiperJS. 
-
-The React applications show an understanding of commonly used React hooks, component composition, and state management. 
-
-Additionally shows knowledge of functional programming in JavaScript.
 
 
 <br>
@@ -125,7 +128,7 @@ Additionally shows knowledge of functional programming in JavaScript.
 - **`useRef`**: 
   - Manages references to DOM elements for scrolling and focusing.
 
-#### React Hook Usage Example:
+#### React Hook Example:
 
 ```js
 const targetRef = [useRef(null), useRef(null)];
