@@ -78,12 +78,11 @@ Key Features:
 - **Custom Animations**: Includes animations for transitions between questions and feedback messages using `Fade` and `Grow` components from Material-UI.
 
 
-### [GitHub Repo](https://github.com/Practical-Software/KLFC-Quiz)  
+## [GitHub Repo](https://github.com/Practical-Software/KLFC-Quiz)  
 
 <br>
-<br>
 
-### [Live Demo](https://koreanflagship.manoa.hawaii.edu/trivia/)
+## [Live Demo](https://koreanflagship.manoa.hawaii.edu/trivia/)
 
 
 

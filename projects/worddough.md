@@ -62,7 +62,6 @@ if ($query) {
     error_log("Query error: " . mysqli_error($conn));
     echo "Error executing query.";
 }
-
 ```
 
 
@@ -80,7 +79,6 @@ if ($query) {
 - [Merriam-Webster Dictionary API](https://dictionaryapi.com/): Validates user-inputted words to ensure they are legitimate, maintaining the quality of gameplay.
 
 - [OpenAI Moderation API](https://platform.openai.com/docs/guides/moderation): Monitors and filters usernames to ensure a respectful and appropriate gaming environment.
-
 
 
 
