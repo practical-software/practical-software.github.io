@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/klfc-trivia/klfclogo.png
+image: img/klfc-trivia/klfclogosquare.png
 title: "Korean Culture Day Trivia"
 date: 2024
 published: true

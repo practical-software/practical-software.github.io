@@ -10,23 +10,23 @@ labels:
   - TypeScript
 ---
 
-## My Experience with Software Engineering
 
-<br>
 
 <style>
     .img {
-        max-width: 66%;
+        max-width: 60%;
         height: auto;
         display: block;
         margin: 0 auto;
         border-radius: 8px;
-        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.4);
+        box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
     }
 </style>
 <img class="img" src="../img/swe/fullstack.png">
 
 <br>
+
+## My Experience with Software Engineering
 
 Throughout the years, software development has captivated me by the truly infinite possibilities for different program ideas. I enjoy solving problems in innovative ways (that might not always be efficient).
 
