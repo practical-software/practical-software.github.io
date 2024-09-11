@@ -52,8 +52,8 @@
     },
     {
         "institution": "Hawaii Baptist Academy",
-        "area": "(Cumalative GPA: 4.0)",
-        "studyType": "",
+        "area": "",
+        "studyType": "(Cumalative GPA: 4.0)",
         "startDate": "2019-08-01",
         "endDate": "2023-05-30",
         "courses": [
