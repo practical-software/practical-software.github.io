@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tubereader/logo0.png
+image: img/tubereader/logo0square.png
 title: "TubeReader (WIP)"
 date: 2024
 published: true
