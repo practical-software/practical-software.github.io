@@ -39,11 +39,11 @@
 
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI (cumalative GPA: 4.0)",
-      "area": "Computer Science (expected Spring, 2027)",
+      "institution": "University of Hawaii, Honolulu, HI ",
+      "area": "Computer Science (Cumalative GPA: 3.93)",
       "studyType": "B.S.",
       "startDate": "2023-09-01",
-      "endDate": "Present",
+      "endDate": "2027-05-01",
       "courses": [
         "ICS212: Program Structure",
         "ICS311: Algorithms",
@@ -51,16 +51,18 @@
       ]
     },
     {
-        "institution": "Hawaii Baptist Academy (cumalative GPA: 4.0)",
+        "institution": "Hawaii Baptist Academy",
+        "area": "(Cumalative GPA: 4.0)",
+        "studyType": "",
         "startDate": "2019-08-01",
-        "endDate": "2024-05-30",
+        "endDate": "2023-05-30",
         "courses": [
             "AP Computer Science A",
             "AP Calculus AB",
             "AP Physics 1",
             "AP Japanese"
         ]
-      }
+    }
   ],
   "work": [
     {
