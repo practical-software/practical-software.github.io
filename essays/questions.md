@@ -107,7 +107,7 @@ ___
 
 Although not perfect...
 
-What I like about this quewstion is that it provides specific context on the ```Module``` Class and how the user is trying to solve the problem. 
+What I like about this question is that it provides specific context on the ```Module``` Class and how the user is trying to solve the problem. 
 
 Additionally, I think the "Expected" vs "Actual" answer is important to understanding the problem and what output is wanted. 
 
