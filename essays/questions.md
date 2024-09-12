@@ -8,13 +8,16 @@ published: true
 labels:
   - Stack Overflow
 ---
+ 
+Everyone has questions when they are in the middle of programming, whether it's a bug in the code, an internal server error, or a conceptual question. People often turn to platforms like StackOverflow, where millions of tech users go for help. 
 
-## 
-Everyone has questions when they are in the middle of programming, whether it's a bug in the code, an internal server error, or a conceptual question. People often turn to platforms like StackOverflow, where millions of tech users go for help. Nonetheless, after scrolling through multiple sections, I realized just how unclear and confusing some questions are, which results in a flurry of downvotes. This is why it is vital to ask smart questions. 
+Nonetheless, after scrolling through multiple sections, I realized just how unclear and confusing some questions are, which results in a flurry of downvotes. This is why it is vital to ask smart questions. 
 
 ## Why Smart Questions?
 
-According to Rick Moen, "The kind of answers you get to your technical questions depends as much on the way you ask the questions as on the difficulty of developing the answer." In short, straightforward and detailed questions will result in straightforward and detailed answers. However, before asking questions to others, it is important to do some work for yourself. 
+According to Rick Moen, "The kind of answers you get to your technical questions depends as much on the way you ask the questions as on the difficulty of developing the answer." In short, straightforward and detailed questions will result in straightforward and detailed answers. 
+
+However, before asking questions to others, it is important to do some work for yourself. 
 
 ### For example...
 1. Search for answers on Google (maybe your question is already answered elsewhere)
