@@ -20,6 +20,9 @@ labels:
         box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
     }
 </style>
+
+<br>
+
 <img class="img" src="../img/stackoverflow/stackoverflow.png">
 
 <br>
