@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "A Full-Stack Future"
+title: "Insightful Inqueries"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-03
+date: 2024-09-11
 published: true
 labels:
-  - JavaScript
-  - TypeScript
+  - Stack Overflow
 ---
 
 ## 
