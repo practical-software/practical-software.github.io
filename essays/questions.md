@@ -8,10 +8,24 @@ published: true
 labels:
   - Stack Overflow
 ---
+
+<style>
+    .img {
+        max-width: 60%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        border-radius: 8px;
+        box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+    }
+</style>
+<img class="img" src="../img/stackoverflow/stackoverflow.png">
+
+<br>
  
 Everyone has questions when they are in the middle of programming, whether it's a bug in the code, an internal server error, or a conceptual question. People often turn to platforms like StackOverflow, where millions of tech users go for help. 
 
-Nonetheless, after scrolling through multiple sections, I realized just how unclear and confusing some questions are, which results in a flurry of downvotes. This is why it is vital to ask smart questions. 
+Nonetheless, after scrolling through multiple sections, I realized just how unclear and confusing some questions are, which results in a flurry of downvotes. I have also written a few unclear questions on StackOverflow myself. This is why it is vital to ask smart questions. 
 
 ## Why Smart Questions?
 
@@ -45,7 +59,7 @@ However, before asking questions to others, it is important to do some work for 
 
 ### How do you format a Date/Time in TypeScript?
 
-I have a class Module which is defined as:
+"I have a class Module which is defined as:
 
 ```js
 export class Module {
@@ -82,9 +96,10 @@ What I want to see is:
 
 ```09/11/2015 16:16```
 
-I've had a look at the documentation at: [Mozilla Docs URL](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString) and I still can't see what I'm doing wrong (I know this is a JavaScript API documentation but I'm pretty sure that's what TypeScript is using under the hood).
+I've had a look at the documentation at: [Mozilla Docs URL](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString) and I still can't see what I'm doing wrong (I know this is a JavaScript API documentation but I'm pretty sure that's what TypeScript is using under the hood)."
 
-<br>
+___
+
 
 Although not perfect...
 
@@ -94,4 +109,30 @@ Additionally, I think the "Expected" vs "Actual" answer is important to understa
 
 Lastly, linking the documentation shows initial research was done, and that the question was not asked without proper research first.
 
+
+## A Questionable Question:
+
+Here's an example of a lower-effort question from [Stack Overflow](https://stackoverflow.com/questions/78971181/what-should-i-do-for-this-log-in-problem):
+
+### what should i do for this log in problem?
+
+"In my project, there are three user such as student, faculty and admin. I have one log in form when i log in as student i want to go student profile page, when i log in as faculty i want to go take attendance page ,when i log in as admin i want to go admin page. But I can't go as my with what should I do so that after log in I can go my expected page?
+
+I tried to create three log in page for 3 types of users? those log in page i linked my expected page. But I was not successful . Is this right way?"
+
+___
+
+
+Unfortunately, this question is not perfect.
+
+Some context is shown in the question, but no code or documentation is provided. The question is a little too vague and does not directly relate to ```PHP```, where it was tagged. 
+
+Additionally, there are a number of issues with correct grammar and punctuation. Although perfect grammar isn't a requirement, using incorrect capitalization and punctuation shows a lack of effort put into the question, and viewers may not take the question as seriously.
+
+
+## Wrap Up:
+
+After reading through many Stack Overflow posts and questions, as well as Rick Moen's guide, I better understand how to communicate effectively with other developers through forums no matter what the platform is.
+
+Writing clear, concise, and detailed questions will increase the chances of getting a insightful response. By following the mentioned principles, I can keep my questions on the right track.
 
