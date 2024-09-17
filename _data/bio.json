@@ -21,7 +21,7 @@
   "skills": [
     {
         "name": "Languages and Frameworks",
-        "keywords": [ "React", "PHP", "Python", "Java", "C" ]
+        "keywords": [ "JavaScript", "TypeScript", "React", "PHP", "Python", "Java" ]
     },
     {
         "name": "Toolsets/OS",
@@ -45,6 +45,7 @@
       "startDate": "2023-09-01",
       "endDate": "2027-05-01",
       "courses": [
+        "ICS211: Data Structures",
         "ICS212: Program Structure",
         "ICS311: Algorithms",
         "ICS314: Software Engineering"
@@ -73,10 +74,9 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Implemented updates and additions to the center's website using Divi, and React, ensuring seamless user experiences and keeping the online presence current and dynamic.",
-        "Developed a PHP web application that automates the creation of decision letters for student applicants using the FPDF library. This user-friendly tool generates official decision letters with branded letterhead in PDF format, facilitating a swift and professional communication process with applicants.",
-        "Successfully rebuilt the organization's application form through integration with a third-party software, streamlining the submission process for applicants. This enhancement contributed to increased efficiency and a more user-friendly application experience.",
-        "Developed a simple trivia quiz for the Korean Culture Day event using React and Material UI"
+        "Saved average webpage load speed by 40% using Divi page caching.",
+        "Developed a user-friendly PHP web application to automate the creation of decision letters for student applicants using the FPDF PHP library.",
+        "Created a trivia quiz for the Korean Culture Day event using React and Material UI played by over 100 students."
       ]
     }
   ],
@@ -102,7 +102,7 @@
     {
       "title": "Outstanding Student in AP Computer Science A",
       "date": "2022",
-      "awarder": "Hawaii Baptist Academy",
+      "awarder": "Hawaii Baptist Academy"
     }
   ],
   "references": [
