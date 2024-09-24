@@ -11,7 +11,7 @@ labels:
 
 <style>
     .img {
-        max-width: 60%;
+        max-width: 75%;
         height: auto;
         display: block;
         margin: 0 auto;
