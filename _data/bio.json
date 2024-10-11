@@ -9,7 +9,7 @@
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Practical-Software", "url": "http://github.com/practical-software" },
-      { "network": "linkedin", "username": "jsumiye", "url": "http://linkedin.com/in/jsumiye" },
+      { "network": "linkedin", "username": "jsumiye", "url": "http://linkedin.com/in/jsumiye" }
     
     ]
   },
@@ -21,20 +21,22 @@
   "skills": [
     {
         "name": "Languages and Frameworks",
-        "keywords": [ "JavaScript", "TypeScript", "React", "PHP", "Python", "Java" ]
+        "keywords": [ "Javascript (React, jQuery)", "PHP", "Python (Flask)", "Java", "TypeScript" ]
+    },
+    {
+        "name": "Libraries",
+        "keywords": ["Material UI", "Bootstrap 5", "jQueryUI"]
+        
+    },
+    {
+      "name": "Databases and Servers",
+      "keywords": [ "MySQL", "Heroku", "Apache" ]
     },
     {
         "name": "Toolsets/OS",
         "keywords": [ "Windows 10/11", "Git/GitHub", "VSCode" ]
-    },
-    {
-        "name": "Databases and Servers",
-        "keywords": [ "MySQL", "Apache" ]
-    },
-    {
-        "name": "Deployment Platforms",
-        "keywords": [ "Heroku", "Railway" ]
     }
+
   ],
 
   "education": [
@@ -47,8 +49,8 @@
       "courses": [
         "ICS211: Data Structures",
         "ICS212: Program Structure",
-        "ICS311: Algorithms",
-        "ICS314: Software Engineering"
+        "ICS311: Algorithms (Concurrent)",
+        "ICS314: Software Engineering (Concurrent)"
       ]
     },
     {
@@ -74,9 +76,9 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Saved average webpage load speed by 40% using Divi page caching.",
-        "Developed a user-friendly PHP web application to automate the creation of decision letters for student applicants using the FPDF PHP library.",
-        "Created a trivia quiz for the Korean Culture Day event using React and Material UI played by over 100 students."
+          "Increased webpage load speed by 50% through page caching and file compression.",
+          "Engineered a user-friendly PHP web application to automate the creation of decision letters for student applicants using the FPDF PHP library.",
+          "Built an interactive trivia quiz for the Korean Culture Day event utilizing React and Material UI, enhancing engagement for over 100 students."
       ]
     }
   ],
