@@ -43,9 +43,9 @@ summary: "A Next.js web application designed to simplify and enhance the discove
 <div class="carousel-indicators">
 <button type="button" data-bs-target="#hawaii-data" data-bs-slide-to="0" class="active"></button>
 <button type="button" data-bs-target="#hawaii-data" data-bs-slide-to="1"></button>
+<button type="button" data-bs-target="#hawaii-data" data-bs-slide-to="2"></button>
 <button type="button" data-bs-target="#hawaii-data" data-bs-slide-to="3"></button>
 <button type="button" data-bs-target="#hawaii-data" data-bs-slide-to="4"></button>
-<button type="button" data-bs-target="#hawaii-data" data-bs-slide-to="5"></button>
 
 </div>
 
