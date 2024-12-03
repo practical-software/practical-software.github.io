@@ -87,9 +87,12 @@ summary: "A Next.js web application designed to simplify and enhance the discove
 
 ## Overview
 
+
 The Hawaii Open Data Explorer is a comprehensive tool for exploring datasets provided by various government agencies in Hawaii. The application allows users to search, filter, and visualize data in an intuitive and user-friendly manner.
+<br>
 
 ## Concepts Used/Learned
+
 
 ### Frontend Development
 - **React and Next.js**: Utilized for building the user interface and managing the application state.
@@ -97,10 +100,12 @@ The Hawaii Open Data Explorer is a comprehensive tool for exploring datasets pro
 - **Tailwind CSS**: Applied for styling the components and creating a responsive design.
 - **Shadcn/ui**: Used for building responsive and clean user interfaces
 - **Axios**: Employed for making HTTP requests to the backend API.
+<br>
 
 ### Backend Development
 - **OpenAI API**: Integrated for generating dataset suggestions and answering user queries.
 - ***Next.js* Environment Variables**: Managed sensitive information using `.env` files.
+<br>
 
 ## My Role
 
@@ -114,8 +119,10 @@ As a frontend developer, I was responsible for several key features of the appli
 - **Info Tab**: Created an information tab to provide detailed insights about selected datasets.
 - **Search for Datasets**: Implemented a search feature to allow users to find datasets quickly.
 - **Help & Tips**: Added a help button and several tooltips to guide users through the application.
+<br>
 
 ## Teamwork and Learning
+
 
 This was my first group coding project, and I learned a lot about working in a team. I gained experience in:
 
@@ -123,9 +130,12 @@ This was my first group coding project, and I learned a lot about working in a t
 - **Version Control**: Using GitHub for version control, including branching, pull requests, and merge conflicts.
 - **Code Reviews**: Participating in code reviews to ensure code quality and consistency.
 - **Communication**: Effectively communicating with team members to resolve issues and share progress.
+<br>
 
 I was initially unfamiliar with some GitHub concepts, but through this project, I became more comfortable with using GitHub for collaboration and version control.
+<br>
 
 ## Conclusion
+
 
 The Hawaii Open Data Explorer project was a valuable learning experience that allowed me to develop my skills in frontend development, teamwork, and using GitHub for version control. I am proud of the features I implemented and the contributions I made to the project.
