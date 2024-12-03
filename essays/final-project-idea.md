@@ -4,7 +4,7 @@ type: essay
 title: "Final Project Idea 2"
 # All dates must be YYYY-MM-DD format!
 date: 2024-11-06
-published: true
+published: false
 labels:
   - Software Engineering
   - Nextjs
