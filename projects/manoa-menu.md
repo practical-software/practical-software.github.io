@@ -55,7 +55,7 @@ summary: "The Manoa Menu project is a web application designed to provide menu t
     <img src="/img/manoa-menu/menu-ha-en.png" alt="Manoa Menu HA" class="d-block" style="width:100%">
 </div>
 <div class="carousel-item">
-    <img src="/img/manoa-menu/menu-cc-jp.png" alt="Manoa Menu HA" class="d-block" style="width:100%">
+    <img src="/img/manoa-menu/menu-ha-jp.png" alt="Manoa Menu HA" class="d-block" style="width:100%">
 </div>
 <div class="carousel-item">
     <img src="/img/manoa-menu/map-hours.png" alt="Manoa Menu Map & Hours" class="d-block" style="width:100%">
@@ -81,9 +81,13 @@ summary: "The Manoa Menu project is a web application designed to provide menu t
 <br>
 <br>
 
-### ***Team Homepage***: [https://manoa-menu.github.io/]
+### **Team Homepage**: [https://manoa-menu.github.io/]
 
-### ***Deployed Application***: [Manoa Menu](https://manoa-menu.vercel.app)
+<br>
+
+### **Deployed Application**: [Manoa Menu](https://manoa-menu.vercel.app)
+
+<br>
 
 ## Overview
 
