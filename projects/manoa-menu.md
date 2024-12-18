@@ -81,7 +81,7 @@ summary: "The Manoa Menu project is a web application designed to provide menu t
 <br>
 <br>
 
-### **Team Homepage**: [https://manoa-menu.github.io/]
+### **Team Homepage**: [GitHub Organization](https://manoa-menu.github.io/)
 
 <br>
 
