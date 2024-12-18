@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/hawaii-data/HOD.jpg
-title: "Hawaii Open Data Explorer"
+image: img/manoa-menu/mm-logo.png
+title: "Mānoa Menu"
 date: 2024
-published: false
+published: true
 labels:
   - Next.js
   - React
@@ -15,7 +15,7 @@ labels:
   - PostgreSQL
   - Prisma ORM
   - Vercel
-summary: "A Next.js web application designed to simplify and enhance the discovery and analysis of publicly accessible data in Hawaii."
+summary: "The Manoa Menu project is a web application designed to provide menu translations and item descriptions for international students at the University of Hawaiʻi at Mānoa."
 ---
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -87,7 +87,7 @@ summary: "A Next.js web application designed to simplify and enhance the discove
 
 ## Overview
 
-The Manoa Menu project is a web application designed to provide menu translations for international students at the University of Hawaiʻi at Mānoa. The application also allows users to view dining menus, find dining locations & hours, manage their favorite items, and get recommendations based on their preferences.
+The Manoa Menu project is a web application designed to provide menu translations and item descriptions for international students at the University of Hawaiʻi at Mānoa. The application also allows users to view dining menus, find dining locations & hours, manage their favorite items, and get recommendations based on their preferences.
 
 <br>
 
